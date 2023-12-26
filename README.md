@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 - 😄 Know about my experiences [https://sborquez.github.io/cv](https://sborquez.github.io/cv)
 
-- 📄 I wrote a paper about Bayesian Deep Learning in the context of HER2 Breast Cancer diagnosis ([DOI]([asdfsa](https://doi.org/10.1016/j.bspc.2023.104864)))
+- 📄 I wrote a paper about Bayesian Deep Learning in the context of HER2 Breast Cancer diagnosis ([DOI](https://doi.org/10.1016/j.bspc.2023.104864))
 
 <h3 align="left">Languages and Tools:</h3>
 
