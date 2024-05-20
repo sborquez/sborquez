@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">About Me:</h3>
 
-- 🌱 I’m currently learning **💙 Go, 🇩🇪 German, 📉MLFlow, 🦜LangChain**
+- 🌱 I’m currently learning **💙 Go, 🇮🇹 Italian, 📉MLFlow, 🦜LangChain**
 
 - 📝 I sometimes write articles on [https://sborquez.github.io/](https://sborquez.github.io/)
 
