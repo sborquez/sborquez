@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sebastián Bórquez</h1>
 
 <h4 align="center">
-  A passionate AI Engineer from Chile 🇨🇱. I am working with machine learning 🤖, deep learning 🧠, and computer vision 👀. I am a self-taught person, and I love to learn new things every day, always looking for new challenges 🦾
+  A passionate AI Engineer from Chile 🇨🇱. I am working with machine learning 🧑‍🎓, deep learning 🧠, LLMs 🤖, and computer vision 👀. I am a self-taught person, and I love to learn new things every day, always looking for new challenges 🦾
 </h4>
 
 <h3 align="left">About Me:</h3>
 
-- 🌱 I’m currently learning **💙 Go, 🇮🇹 Italian, 📉MLFlow, 🦜LangChain**
+- 🌱 I’m currently learning **💙 Go, 🇧🇷 Portuguese, :feelsgood: GCP, 🦜LangChain**
 
 - 📝 I sometimes write articles on [https://sborquez.github.io/](https://sborquez.github.io/)
 
