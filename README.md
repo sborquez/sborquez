@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 - 📝 I sometimes write articles on [https://sborquez.github.io/](https://sborquez.github.io/)
 
-- 😄 Know about my experiences [https://sborquez.github.io/cv](https://sborquez.github.io/cv)
+- 😄 About my experiences [https://sborquez.github.io/cv](https://sborquez.github.io/cv)
 
 - 👾 Here, you can find some useful code snippets [https://gist.github.com/sborquez](https://gist.github.com/sborquez)
 
